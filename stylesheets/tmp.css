@@ -1,0 +1,254 @@
+hover :
+color: #f7c20a;
+
+body {
+	font: 14px/24px "Open Sans", sans-serif;
+}
+
+/*h1 { font: 36px/28px "Montserrat", sans-serif;}
+h3 { font: 24px/28px "Montserrat", sans-serif; }
+h4 {font: 20px/28px "Montserrat", sans-serif;}
+h5 { font: 18px/24px "Montserrat", sans-serif; }
+h6 { font: 14px/24px "Montserrat", sans-serif; }*/
+
+
+h1 { font: 42px/44px "Montserrat", sans-serif; }
+h2 { font: 36px/44px "Montserrat", sans-serif;  }
+h3 { font: 24px/28px "Montserrat", sans-serif;  }
+h4 { font: 22px/28px "Montserrat", sans-serif; }
+h5 { font: 18px/24px "Montserrat", sans-serif; }
+
+
+font-family: 'Montserrat', sans-serif;
+
+font-family:"Ionicons"
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+
+font-family: 'FontAwesome';
+
+font-family: 'Poppins', sans-serif;
+font-family: 'Open Sans', sans-serif;
+
+<!--/.container -->
+<!--/.row -->
+<!--/.col-md-12 -->
+
+
+/* Button slider */
+.tp-caption.flat-button a,
+.tp-caption.border-white a {
+    color: #002e5b; 
+
+}
+
+.tp-caption.border-white a {
+    font-family: 'Montserrat', sans-serif;
+    padding: 24px 53px 20px 50px;
+    font-size: 16px;
+    font-weight: 700;
+    display: inline-block;
+    line-height: 1;
+    border: 1px solid #002e5b;      
+    z-index: 1;
+    -webkit-transition-duration: 0.3s;
+       -moz-transition-duration: 0.3s;
+        -ms-transition-duration: 0.3s;
+         -o-transition-duration: 0.3s;
+            transition-duration: 0.3s;
+}
+
+.tp-caption.border-white a:hover {
+    background-color: #002e5b;
+    color: #ffffff;
+
+}
+
+.tp-caption.flat-button a {
+    font-family: 'Montserrat', sans-serif;
+    padding: 24px 41px 20px 41px;
+    font-size: 16px;
+    font-weight: 700;
+    display: inline-block;
+    line-height: 1;
+    border: 1px solid #002e5b;  
+    z-index: 1;
+    -webkit-transition-duration: 0.3s;
+       -moz-transition-duration: 0.3s;
+        -ms-transition-duration: 0.3s;
+         -o-transition-duration: 0.3s;
+            transition-duration: 0.3s;
+}
+
+.tp-caption.flat-button a:hover{
+    background-color: #002e5b;
+    color: #ffffff;
+    
+}
+
+.flat-button-slider.bg-button-slider-32bfc0 {
+    background-color: #eab702;
+}
+
+.flat-button-slider.bg-button-slider-32bfc0:hover {
+    background-color: #eab702;
+}
+
+.flat-button-slider:hover {
+    background-color: #eab702;
+}
+
+.flat-button-slider:hover a {
+    color: #fff;
+}
+
+.flat-button-slider.pad-large {
+    padding: 
+}
+
+
+
+
+/* Text slider */
+.tp-caption .title-slide,
+.tp-caption.title-slide {
+    font-family:'Montserrat';
+    font-size: 30px;
+    /*color: rgb(255, 255, 255);*/
+    color: #002e5b;
+    transition: none;
+    line-height: 66px;
+    border-width: 0px;
+    margin: 30px 0px 0px;
+    padding: 0px;
+    letter-spacing: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.tp-caption.title-slide1 {
+    font-family: 'MontserratAlternates-ExtraBold';
+    font-size: 90px;
+    /*color: rgb(255, 255, 255);*/
+    color: #002e5b;
+    transition: none;
+    line-height: 66px;
+    border-width: 0px;
+    margin: 30px 0px 0px;
+    padding: 0px;
+    /*letter-spacing: 16px;*/
+    font-weight: 800;
+    text-transform: uppercase;
+
+}
+
+.tp-caption.desc-slide {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    /*color: rgb(255, 255, 255);*/
+    color: #002e5b;
+    
+    transition: none;
+    line-height: 32px;
+    border-width: 0px;
+    margin: 30px 0px 0px;
+    padding: 0px;
+    letter-spacing: 0px;
+    font-weight: 600;
+}
+
+
+
+/*tp-banner-containerv2*/
+.tp-banner-containerv2 .tp-caption.title-slide1,
+.tp-banner-containerv3 .tp-caption.title-slide1,
+.tp-banner-containerv1 .tp-caption.title-slide5,
+.tp-banner-containerv1 .tp-caption.title-slide1  {
+    color: #ffffff ;
+}
+
+.tp-banner-containerv2 .tp-caption.title-slide5 a,
+.tp-banner-containerv1 .tp-caption.title-slide5 a{
+    color: #ffffff;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #002e5b;
+    padding: 4px 21px 4px 32px;
+    line-height: 90px;
+    letter-spacing: 12px;
+}
+
+.tp-banner-containerv1 .tp-caption.title-slide5.style7 a {
+    background-color: #ffffff;
+    color: #333333;
+}
+
+.tp-banner-containerv2 .tp-caption.desc-slide,
+.tp-banner-containerv1 .tp-caption.desc-slide {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.tp-banner-containerv2 .tp-caption.border-white a{
+    border: 1px solid #ffffff;
+    color: #ffffff;
+}
+
+.tp-banner-containerv1 .tp-caption.border-white.border-f7c20a a {
+    border: 1px solid #f7c20a;
+    color: #f7c20a;
+    position: relative;
+}
+
+.tp-banner-containerv1 .tp-caption.border-white.border-f7c20a a:before {
+    position: absolute;
+    content: "\f054";
+    font-family: 'FontAwesome';
+    top: 40%;
+    left: 80%;
+}
+
+.tp-banner-containerv1 .tp-caption.border-white.border-f7c20a a:hover {
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    color: #f7c20a;
+}
+
+/*tp-banner-containerv3*/
+.tp-banner-containerv3 .tp-caption.title-slide {
+    color: #ffffff; 
+}
+
+.tp-banner-containerv3 .tp-caption.title-slide1 {
+    font-size: 72px;
+}
+
+.tp-banner-containerv3 .tp-caption.desc-slide {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.tp-banner-containerv3 .tp-caption.flat-button a {
+    border: 1px solid #f7c20a;
+    color: #f7c20a;
+}
+
+.tp-banner-containerv3 .tp-caption.border-white.border-f7c20a a {
+    border: 1px solid #f7c20a;
+    color: #f7c20a;
+}
+
+.tp-banner-containerv3 .tp-caption.flat-button a:hover,
+.tp-banner-containerv3 .tp-caption.border-white.border-f7c20a a:hover {
+    background-color:  #f7c20a;
+    color: #333333; 
+}
+
+
+
+
+
+
+
